@@ -1,7 +1,7 @@
 // Copyright ChefDevGaming 2025
 
 
-#include "AuraCharacterBase.h"
+#include "Character/AuraCharacterBase.h"
 
 // Sets default values
 AAuraCharacterBase::AAuraCharacterBase()
